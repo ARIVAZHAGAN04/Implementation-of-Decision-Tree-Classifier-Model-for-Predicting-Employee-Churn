@@ -74,6 +74,7 @@ dt.predict([[0.5,0.8,9,206,6,0,1,2]])
 Accuracy:
 0.985
 
+
 ![320173814-441719a0-d664-4283-ae45-c03d741ccd75](https://github.com/ARIVAZHAGAN04/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/161414455/0a80c8d1-cc82-450d-ae03-bba779f4ea9b)
 
 
